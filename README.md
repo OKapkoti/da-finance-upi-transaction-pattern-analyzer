@@ -2,8 +2,9 @@
   <h1>💸 UPI Transaction Pattern Analyzer</h1>
   
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-red?style=for-the-badge)]([https://upi-transaction-pattern-analyzer-byom.streamlit.app/]
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-red?style=for-the-badge)](https://upi-transaction-pattern-analyzer-byom.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/OKapkoti/da-finance-upi-transaction-pattern-analyzer)
+
 
   <p><strong>A comprehensive, full-stack data analytics dashboard for uncovering insights from Unified Payments Interface (UPI) transactions.</strong></p>
 </div>
